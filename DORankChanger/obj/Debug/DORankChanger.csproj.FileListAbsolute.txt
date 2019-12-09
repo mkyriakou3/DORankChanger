@@ -1,0 +1,8 @@
+C:\Users\Michael\Desktop\Programming Languages\DOTools\DORankChanger\DORankChanger\DORankChanger\bin\Debug\DORankChanger.exe.config
+C:\Users\Michael\Desktop\Programming Languages\DOTools\DORankChanger\DORankChanger\DORankChanger\bin\Debug\DORankChanger.exe
+C:\Users\Michael\Desktop\Programming Languages\DOTools\DORankChanger\DORankChanger\DORankChanger\bin\Debug\DORankChanger.pdb
+C:\Users\Michael\Desktop\Programming Languages\DOTools\DORankChanger\DORankChanger\DORankChanger\obj\Debug\DORankChanger.Properties.Resources.resources
+C:\Users\Michael\Desktop\Programming Languages\DOTools\DORankChanger\DORankChanger\DORankChanger\obj\Debug\DORankChanger.csproj.GenerateResource.cache
+C:\Users\Michael\Desktop\Programming Languages\DOTools\DORankChanger\DORankChanger\DORankChanger\obj\Debug\DORankChanger.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\Programming Languages\DOTools\DORankChanger\DORankChanger\DORankChanger\obj\Debug\DORankChanger.exe
+C:\Users\Michael\Desktop\Programming Languages\DOTools\DORankChanger\DORankChanger\DORankChanger\obj\Debug\DORankChanger.pdb
